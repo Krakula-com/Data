@@ -5,6 +5,12 @@
 			"lastName": "Winkler",
 			"description":"Student Developer",
 			"img":"https://krakula.com/assets/avatars/jw.png"
+		},
+		{
+			"firstName":"Bennet",
+			"lastName": "Meier",
+			"description":"Student Developer",
+			"img":"https://krakula.com/assets/avatars/jw.png"
 		}
 	]
 }
