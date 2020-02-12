@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "name": "Ice Rider",
+      "description": "A game in where the whole world is frozen. Explore the giant area and find some creatures that are not afraid to attack.",
+      "link": "https://discord.gg/6AkbEVv",
+      "img": "krakula.com/assets/games/ir.jpg"
+    },
+    {
+      "name": "Untitled Speed Running Game",
+      "description": "The game is a platformer in which speed and time are the keywords. The high degree of difficulty ensures that despite the tendency to have little content, the game can be played for a long time.",
+      "link": "https://beseme.itch.io/",
+      "img": "krakula.com/assets/games/usrg.jpg"
+    }
+  ]
+}
