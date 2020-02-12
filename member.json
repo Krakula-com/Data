@@ -3,8 +3,8 @@
 		{
 			"firstName":"Janek",
 			"lastName": "Winkler",
-			"description":"foo",
-			"img":""
+			"description":"Student Developer",
+			"img":"https://krakula.com/assets/avatars/jw.png"
 		}
 	]
 }
