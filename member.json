@@ -11,6 +11,12 @@
 			"lastName": "Meier",
 			"description":"Student Developer",
 			"img":"https://krakula.com/assets/avatars/bm.jpg"
+		},
+		{
+			"firstName":"Arne",
+			"lastName": "Schaumburg",
+			"description":"Student Developer",
+			"img":"https://raw.githubusercontent.com/Krakula-com/Data/master/avatars/as.png"
 		}
 	]
 }
