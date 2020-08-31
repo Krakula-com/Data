@@ -11,6 +11,12 @@
       "description": "The game is a platformer in which speed and time are the keywords. The high degree of difficulty ensures that despite the tendency to have little content, the game can be played for a long time.",
       "link": "https://beseme.itch.io/",
       "img": "https://krakula.com/assets/games/usrg.jpg"
+    },
+    {
+      "name": "Dodgy Deliveries 3",
+      "description": "Very small dodge game.",
+      "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "img": "https://raw.githubusercontent.com/Krakula-com/Data/master/thumpnails/dd3.jpg"
     }
   ]
 }
