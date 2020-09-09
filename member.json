@@ -17,6 +17,12 @@
 			"lastName": "Schaumburg",
 			"description":"Student Developer",
 			"img":"https://raw.githubusercontent.com/Krakula-com/Data/master/avatars/as.png"
+		},
+		{
+			"firstName":"Hannes",
+			"lastName": "Winkler",
+			"description":"Student Developer",
+			"img":"https://raw.githubusercontent.com/Krakula-com/Data/master/avatars/hw.jfif"
 		}
 	]
 }
